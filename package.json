@@ -1,0 +1,23 @@
+{
+  "name": "jlud2d-js",
+  "version": "1.0.0",
+  "description": "JLud2D-js is an old-school engine for games, based on JLud2D, a Java 8 engine compatible with Tiled maps, RPG-style characters and sprites, and MP3, MIDI, VGM, S3M, MOD and XM music formats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herbae/jlud2d-js.git"
+  },
+  "keywords": [
+    "engine",
+    "javascript"
+  ],
+  "author": "Iury Lazoski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herbae/jlud2d-js/issues"
+  },
+  "homepage": "https://github.com/herbae/jlud2d-js#readme"
+}
